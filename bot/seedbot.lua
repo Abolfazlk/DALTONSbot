@@ -223,8 +223,8 @@ function create_config( )
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v1
-An advance Administration bot based on yagop/telegram-bot 
+    about_text = [[DALTONSbot v1
+An advance Administrot based on yagop/telegram-bot 
 
 https://github.com/Abolfazlk/DALTONSbot
 
@@ -239,7 +239,7 @@ topkecleon
 Vamptacus
 
 Our channels
-@DALTONSbot_Channel [English]
+@DALTONSbot_Channel [Persian]
 ]],
     help_text = [[
 Commands list :
