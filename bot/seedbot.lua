@@ -217,22 +217,20 @@ function create_config( )
     "get",
     "broadcast",
     "download_media",
-    "invite",
     "all"
     },
-    sudo_users = {110626080,103649648,0,tonumber(our_id)},--Sudo users
+    sudo_users = {156513822}--Sudo users
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
     about_text = [[Teleseed v1
 An advance Administration bot based on yagop/telegram-bot 
 
-https://github.com/SEEDTEAM/TeleSeed
+https://github.com/Abolfazlk/DALTONSbot
 
 Admins
-@iwals [Founder]
-@imandaneshi [Developer]
-@seyedan25 [Manager]
+@DALAD2_ACC2 [Founder]
+@Shahinzk_m [Manager]
 
 Special thanks to
 awkward_potato
@@ -241,7 +239,7 @@ topkecleon
 Vamptacus
 
 Our channels
-@teleseedch [English]
+@DALTONSbot_Channel [English]
 ]],
     help_text = [[
 Commands list :
